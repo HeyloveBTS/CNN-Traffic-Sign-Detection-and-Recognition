@@ -10,3 +10,5 @@ This dataset I have chosen is a collection of more than 50,000 real-life German 
 In this project, I used python and Tensorflow to classify traffic signs. The goal is to explore and build a Convolutional Neural Network to solve this single-image, multiclass classification problem. More info can be see at https://www.sciencedirect.com/science/article/pii/S0893608012000457?via%3Dihub
 
 
+## Conclusion
+I was able to achieve a validation accuracy of 97%+ and a test accuracy of 97%+.
